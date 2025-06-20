@@ -34,10 +34,5 @@
 - [Clarinet](https://docs.hiro.so/clarinet/overview) for local testing
  Local Development
 
-```bash
-# Clone repository
-git clone https://github.com/your-username/btc-legacy-pool.git
-cd btc-legacy-pool
-
 # Run Clarinet tests (to be added)
 clarinet test
